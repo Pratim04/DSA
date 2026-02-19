@@ -1,5 +1,5 @@
-// In this program the array is sorted but 
-// we don't know that is the array is ascending 
+// In this program the array is sorted but
+// we don't know that is the array is ascending
 // order sorted or descending order sorted ?
 
 import java.util.Scanner;
