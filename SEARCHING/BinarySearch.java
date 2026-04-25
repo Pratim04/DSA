@@ -23,7 +23,7 @@ public class BinarySearch {
         }
         in.close();
     }
-    static int Binary(int[] arr, int target) {
+    public static int Binary(int[] arr, int target) {
         int start = 0;
         int end = arr.length - 1;
 
