@@ -1,4 +1,4 @@
-package RECURSION;
+// package RECURSION;
 import java.util.*;
 
 public class palindrome {

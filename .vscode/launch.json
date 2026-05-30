@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "PrintNumbers",
+            "request": "launch",
+            "mainClass": "RECURSION.PrintNumbers",
+            "projectName": "DSA_40508a6d"
+        },
         {
             "name": "Launch",
             "type": "lldb",
