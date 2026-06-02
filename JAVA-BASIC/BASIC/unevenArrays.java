@@ -1,3 +1,4 @@
+package BASIC;
 public class unevenArrays {
     public static void main(String[] args) {
         int[][] arr = {

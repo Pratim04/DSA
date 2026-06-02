@@ -1,3 +1,4 @@
+package BASIC;
 import java.util.*;
 public class SwitchClean {
     public static void main(String[] args) {
