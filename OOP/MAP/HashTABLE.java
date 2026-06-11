@@ -1,11 +1,10 @@
-
+package OOP.MAP;
 import java.util.*;
 
-public class HashMAP {
-    
+public class HashTABLE {
     public static void main(String[] args) {
         
-        Map<String, Integer> students = new HashMap<>();
+        Map<String, Integer> students = new Hashtable<>();
         
         students.put("Navin",56);
         students.put("Harsh",16);
@@ -24,5 +23,4 @@ public class HashMAP {
             System.out.println(n + " : " + students.get(n));
         }
     }
-    
 }
