@@ -26,7 +26,7 @@ public class NumberHashing {
         q = in.nextInt();
 
         System.out.println("Enter queries: ");
-        while(q-->0) {
+        while(q--> 0) {
             int number = in.nextInt();
             System.out.println(number + " = " + hash[number]);
         }
