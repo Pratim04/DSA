@@ -1,7 +1,6 @@
 // It's Bubble Sort or Exchange Sort or Sinking Sort
 // It's a stable order algorithm
-// package SORTING;
-
+package SORTING;
 import java.util.*;
 
 public class bubbleSort {

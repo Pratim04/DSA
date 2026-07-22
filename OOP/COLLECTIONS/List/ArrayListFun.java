@@ -1,3 +1,5 @@
+package OOP.COLLECTIONS.List;
+
 import java.util.*;
 class ArrayListFun {
     public static void main(String[] args) {

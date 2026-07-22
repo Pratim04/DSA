@@ -1,3 +1,5 @@
+package RECURSION;
+
 class printName {
     public static void main(String[] args) {
         int num = 5;

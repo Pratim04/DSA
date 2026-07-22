@@ -1,5 +1,6 @@
+package OOP.COLLECTIONS.Set;
+
 import java.util.*;
-// package JAVA-BASIC.COLLECTIONS.Set;
 
 public class hashSET {
     public static void main(String[] args) {
