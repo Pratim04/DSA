@@ -8,7 +8,7 @@ public class LinkedHashSET {
     public static void main(String[] args) {
         // LinkedHashSet<Integer> Set1 = new LinkedHashSet<>();
         Set<Integer> set1 = new LinkedHashSet<>();
-b 
+
         set1.add(22);
         set1.add(12);
         set1.add(65);
