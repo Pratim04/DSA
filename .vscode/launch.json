@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "subsets",
+            "request": "launch",
+            "mainClass": "RECURSION.BACKTRAKING.subsets",
+            "projectName": "DSA_40508a6d"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "DSA_40508a6d"
+        },
+        {
+            "type": "java",
             "name": "PrintNumbers",
             "request": "launch",
             "mainClass": "RECURSION.PrintNumbers",
