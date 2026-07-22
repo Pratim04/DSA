@@ -1,4 +1,4 @@
-package HASHING;
+// package HASHING;
 import java.util.*;
 
 public class NumberHashing {
@@ -30,5 +30,6 @@ public class NumberHashing {
             int number = in.nextInt();
             System.out.println(number + " = " + hash[number]);
         }
+        in.close();
     }
 }
